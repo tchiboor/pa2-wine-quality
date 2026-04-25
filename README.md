@@ -1,4 +1,3 @@
-# pa2-wine-quality
 # CS 643 Programming Assignment 2
 ## Wine Quality Prediction in AWS using Apache Spark and Docker
 
